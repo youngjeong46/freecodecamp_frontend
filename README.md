@@ -1,5 +1,4 @@
 # Free Code Camp Front-End Projects
-===================================
 
 ### This is my collection of the Front End project given by [FreeCodeCamp](http://www.freecodecamp.com). Below are the list (will be updating as soon as I complete each project). Technologies used throughout the projects include Javascript, JQuery, CSS, HTML, and Bootstrap.
 
