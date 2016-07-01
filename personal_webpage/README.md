@@ -1,0 +1,3 @@
+# Personal Portfolio Webpage
+
+This is a page that will become my personal webpage as I progress through the Front End course. I built a personal website that contains my information, portfolio list (which will hopefully be replaced by real projects; it is fillers right now), and a contact form (that will function as I learn the Backend). It is definitely a project I will keep working on as I learn more. Technologies used: HTML/CSS/Javascript, Bootstrap

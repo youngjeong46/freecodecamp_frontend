@@ -1,0 +1,18 @@
+body {
+  padding:0px;
+  position: relative;
+  background-image: url("http://previews.123rf.com/images/belchonoksun/belchonoksun1403/belchonoksun140300026/27524094-Beautiful-technical-vector-seamless-pattern-with-programming-code-You-can-use-any-color-of-backgroun-Stock-Vector.jpg");
+  background-repeat:repeat;
+}
+
+#about, #portfolio, #contactme{
+	padding-top:80px;
+}
+
+p {
+	font-family:Ubuntu;
+}
+
+#footnote{
+	width: auto;
+}
