@@ -1,18 +1,35 @@
 body {
-  padding:0px;
+  padding: 0px;
   position: relative;
   background-image: url("http://previews.123rf.com/images/belchonoksun/belchonoksun1403/belchonoksun140300026/27524094-Beautiful-technical-vector-seamless-pattern-with-programming-code-You-can-use-any-color-of-backgroun-Stock-Vector.jpg");
-  background-repeat:repeat;
+  background-repeat: repeat;
 }
 
-#about, #portfolio, #contactme{
-	padding-top:80px;
+#about,
+#portfolio,
+#contactme {
+  padding-top: 50px;
+  border-radius: 10px;
 }
 
 p {
-	font-family:Ubuntu;
+  font-family: Ubuntu;
 }
 
-#footnote{
-	width: auto;
+#footnote {
+  width: auto;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: white;
 }
